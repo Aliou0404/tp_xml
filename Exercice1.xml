@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Enseignants>
+<Enseignant>
+      <Nom>M. Ali</Nom>
+      <Matiére>Arabe</Matiére>
+      <Elèves>132</Elèves>
+</Enseignant>
+
+
+
+<Enseignant>
+     <Nom>Mme Fatima</Nom>
+     <Matiére> Arabe</Matiére>
+     <Elèves> 161</Elèves> 
+</Enseignant>
+
+<Enseignant>
+
+     <Nom> Mme Nora</Nom>
+     <Matiére> Mathématiques</Matiére>
+     <Elèves> 143</Elèves>
+</Enseignant>
+</Enseignants>
